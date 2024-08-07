@@ -76,7 +76,3 @@ The login page UI can be improved by providing clearer error messages and enhanc
 **Suggestions**:
 1. Implement more descriptive error messages for failed login attempts.
 2. Enhance the visual design with better use of colors and layout for input fields and buttons.
-
----
-
-This README provides a comprehensive overview of the manual testing project, including test cases, bug reports, and suggested improvement areas. It serves as a guide for understanding the testing efforts and findings related to the Magento website.
