@@ -7,7 +7,7 @@ This repository contains the test cases, bug reports, and improvement areas iden
 
 ## Test Cases
 
-This section includes detailed test cases for various functionalities of the Magento website. Each test case is designed to ensure the proper functioning of different components and features.
+This section includes detailed test cases for various functionalities of the Magento website. Each test case is designed to ensure the proper functioning of different components and features. [Test case](https://github.com/swosti01/magento-web-testing/tree/main/Magneto%20web%20testing/Test%20Case)
 
 ### Example Test Case
 Login:
@@ -35,13 +35,13 @@ Login:
 
 ## Bug Reports
 
-This section contains documented bug reports identified during the manual testing process. Each report includes details on reproducing the issue, the expected result, and the actual result.
+This section contains documented bug reports identified during the manual testing process. Each report includes details on reproducing the issue, the expected result, and the actual result. [Bug Report] ()
 
 ### Example Bug Report
 
 **Bug ID**: BUG001
 
-**Title**: Login page does not display an error message for invalid credentials
+**Title**: The login page does not display an error message for invalid credentials
 
 **Description**:
 When a user enters invalid credentials and clicks on the 'Login' button, the system does not display an appropriate error message.
